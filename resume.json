@@ -1,0 +1,54 @@
+{
+	"RESUME": {
+		"basics": {
+			"name": "Ananth T",
+			"label": "Lidar analyst",
+			"email": "ananthcivil9876@gmail.com",
+			"phone": "9159979066",
+			"location": {
+				"address": "45 nainarstreet aviyanur",
+				"postalCode": "607101",
+				"city": "panruti",
+				"Nation": "India"
+			}
+		},
+		"work": [{
+			"name": "edr continues pvt",
+			"position": "lidar analyst",
+			"url": "http://www.edrinfo.com/",
+			"startDate": "2022-06-28",
+			"endDate": "till today"
+		}],
+		"education": [{
+			"institution": "Anna university",
+			"url": "https://www.annauniv.edu/",
+			"area": "civil engineering",
+			"studyType": "Bachelor",
+			"startDate": "2016-05-03",
+			"endDate": "2019-10-04",
+			"C.G.P": "7.3",
+			"courses": [
+				"Auto cad",
+				"MERN stack developer"
+			]
+		}],
+		"skills": [{
+			"name": "Web Development",
+			"level": "beginer",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			]
+		}],
+		"languages": [{
+			"language": "English ,TAMIL"
+		}],
+		"interests": [{
+			"name": "Movies",
+			"keywords": [
+				"world cinemas"
+			]
+		}]
+	}
+}
